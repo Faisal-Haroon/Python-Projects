@@ -23,6 +23,7 @@ while True:
                 print(f"{idx}. {task}")
 
     elif choice == "3":
+        
         if not tasks:
             print("List is Empty")
         else:
